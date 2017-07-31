@@ -1,0 +1,18 @@
+{
+  "name": "Cypher",
+  "authors": [
+    "Oscar Montaño Ayala <oayala@nuxiba.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
